@@ -1,0 +1,39 @@
+Deleted search.php in donor
+Deleted dashboard.php in donor
+Deleted new-requests.php in donor
+Deleted rejected-requests.php in donor
+Deleted view-requestdetails.php in donor
+completed-requests.php
+all-requests
+admin folder
+change-password
+change-image
+forgot-password
+reset-password
+get-city
+
+
+
+changes in dashboard.php
+changes in sidebar.php
+
+ 
+
+// changes in admin panel
+
+deleted bwdates-donor-report-details , bwdates-report-details
+search.php
+unread-enquiry.php
+view-enquiry
+about-us
+contact-us
+readenq
+report-donated-food
+report-food donor
+admin profile
+dashboard
+edit-city
+
+
+changes in
+header.php
